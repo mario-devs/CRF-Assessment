@@ -1,0 +1,19 @@
+# Ignore dataset folders (case-insensitive)
+data/
+Data/
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtualenvs / IDE
+env/
+venv/
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
